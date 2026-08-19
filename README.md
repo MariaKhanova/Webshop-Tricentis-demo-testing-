@@ -6,6 +6,6 @@
 
 2. [Чек-лист](https://docs.google.com/spreadsheets/d/1XBr4rD0MmPMzIyHwy8PijMw2_rMJv7bKM7WJd3URVz8/edit?usp=sharing) для тестирования корзины и платежного модуля.
 
-3. [Тест-кейс](https://drive.google.com/file/d/1BJTzVwVZz66dZBbBlOxfDClKNQIEzbKO/view?usp=sharing) через TestIT для тестирования корзины покупок и платежного модуля.
+3. [Тест-кейс](https://drive.google.com/file/d/1ui1NNRiRS-h6M5SBGMCtOZPcc8TxQCbQ/view?usp=sharing) через TestIT для тестирования корзины покупок и платежного модуля.
 
 4. [Баг-репорт](https://docs.google.com/spreadsheets/d/198phYgoeqts84KNtNM5uLyIkqiV1xm7IL41LflvyeOQ/edit?usp=sharing) об ошибке через YouTrack с прикреплением.
